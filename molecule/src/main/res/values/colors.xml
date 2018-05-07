@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_background">#11111111</color>
+    <color name="we_chat_black">#323232</color>
+    <color name="item_background">#F1F1F1</color>
+    <color name="app_main">#709CC9</color>
+    <color name="menu_bg">#97B6D5</color>
+    <color name="indicator_1">#55B3C2</color>
+    <color name="indicator_2">#64A4A4</color>
+    <color name="indicator_3">#66D7B9</color>
+    <color name="indicator_4">#FDBC7D</color>
+    <color name="colorPrimaryDark">#455a64</color>
+    <color name="colorPrimary">#607d8b</color>
+</resources>
